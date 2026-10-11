@@ -1,0 +1,22 @@
+# Visual Studio 缓存文件
+.vs/
+
+# 编译生成目录
+x64/
+x86/
+Debug/
+Release/
+
+# C/C++ 编译产生的文件
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Visual Studio 用户配置
+*.user
+*.suo
+
+# 日志和临时文件
+*.log
+*.tmp
