@@ -1,6 +1,6 @@
 //你的手机丢了，在屏幕上输出信息告诉大家
 #include <stdio.h>
-int main()
+//int main()
 {
     printf("我的手机丢了");
     return 0;
@@ -14,7 +14,7 @@ int main()
 //-------------------- -
 //Jack 18 man
 #include <stdio.h>
-int main()
+//int main()
 {
     printf("Name    Age    Gender\n");
     printf("---------------------\n");
@@ -25,7 +25,7 @@ int main()
 }
 //形如下图所示，仅由空格、换行和半角星号构成）。请帮他编写程序输出这架小飞机。
 #include <stdio.h>
-int main()
+//int main()
 {
     printf("     **     \n");
     printf("     **     \n");

@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10_10.c">
+    <ClCompile Include="10_12.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_7.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

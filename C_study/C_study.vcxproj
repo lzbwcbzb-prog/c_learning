@@ -139,7 +139,10 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="10_10.c" />
+    <ClCompile Include="10_12.c" />
+    <ClCompile Include="11_7.c">
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">/source-charset:utf-8 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
