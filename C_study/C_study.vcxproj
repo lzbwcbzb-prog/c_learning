@@ -144,6 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="10_12.c" />
+    <ClCompile Include="11_11.c" />
     <ClCompile Include="11_7.c" />
     <ClCompile Include="11_9.c" />
   </ItemGroup>
